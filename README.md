@@ -34,12 +34,6 @@ Enjoy the game!
 
 If your browser blocks the .exe, you can right-click → “Keep” → then open it manually.
 
-📦 Download
-
-Because the game file is larger than GitHub’s upload limit, please download it here:
-👉 Download PokerGame.zip (Google Drive)
-
-(Replace the above link with your actual Google Drive / OneDrive link)
 
 🧠 Technologies Used
 
